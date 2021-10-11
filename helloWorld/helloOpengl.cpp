@@ -1,3 +1,7 @@
+/**
+ * g++ helloOpengl.cpp -lGL -lglut -o helloOpengl 
+ */
+
 #include <GL/freeglut.h>
 #include <box2d/box2d.h>
 

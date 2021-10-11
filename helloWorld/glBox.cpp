@@ -1,3 +1,7 @@
+/**
+ * g++ glBox.cpp -lGL -lglut -lbox2d -o glBox 
+ */
+
 #include <GL/freeglut.h>
 #include <box2d/box2d.h>
 

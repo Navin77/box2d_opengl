@@ -1,3 +1,7 @@
+/**
+ * g++ helloBox2d.cpp -lbox2d -o helloBox2d 
+ */
+
 #include <iostream>
 #include <box2d/box2d.h>
 
